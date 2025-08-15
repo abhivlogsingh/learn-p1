@@ -7,3 +7,4 @@ export default async function ProductDetails({
     return <h1>Product Details Page {productId}</h1>;
 }
 
+
